@@ -4,3 +4,9 @@ Our group was founded with the goal of fostering collaboration, learning, and in
 
 We believe that coding is more than just a skill; it's a way to solve problems, express creativity, and make a positive impact on the world.
 
+<ul>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+
+</ul>
